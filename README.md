@@ -1,1 +1,1 @@
-### codePython - Python Cisco Academy
+### codePython - Cisco Academy
